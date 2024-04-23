@@ -1,7 +1,7 @@
 
 👋 Welcome to my GitHub!
 
-I'm Hosein Akbari, a passionate backend developer specializing in crafting robust web applications with Django. With a keen eye for detail and a commitment to excellence, I bring a wealth of experience to the table. My journey in the realm of software engineering has been fueled by a deep-rooted love for Python, SQL, and the Django framework.
+I'm Hosein Akbari, a passionate Full-stack developer specializing in crafting robust web applications with Django and React. With a keen eye for detail and a commitment to excellence, I bring a wealth of experience to the table. My journey in the realm of software engineering has been fueled by a deep-rooted love for Python, SQL, React, and the Django framework.
 
 🛠️ **Skills**:
 - Python 🐍
@@ -10,9 +10,10 @@ I'm Hosein Akbari, a passionate backend developer specializing in crafting robus
 - Docker 🐳
 - Celery 🌱
 - HTML/CSS 💻
+- React
 
 🚀 **What I Do**:
-Building scalable and efficient backend systems is not just my profession; it's my passion. From architecting databases to optimizing API performance, I thrive on turning complex challenges into elegant solutions. Whether it's developing RESTful APIs or implementing asynchronous task queues with Celery, I'm always eager to push the boundaries of what's possible in web development.
+Building scalable and efficient backend and frontend systems is not just my profession; it's my passion. From architecting databases to optimizing API performance, I thrive on turning complex challenges into elegant solutions. Whether it's developing RESTful APIs or implementing asynchronous task queues with Celery, I'm always eager to push the boundaries of what's possible in web development.
 
 🌟 **Why Choose Me**:
 - **Expertise**: Years of hands-on experience honing my craft.

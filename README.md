@@ -21,8 +21,6 @@ Building scalable and efficient backend and frontend systems is not just my prof
 - **Collaboration**: A team player who values communication and synergy.
 - **Continuous Learning**: Committed to staying updated with the latest industry trends and technologies.
 
-📫 **Get in Touch**:
-I'm always open to exciting opportunities, collaborations, or just a friendly chat! Feel free to reach out via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on LinkedIn [here](https://www.linkedin.com/in/your-linkedin-profile).
 
 Let's build something amazing together! 💡
 
